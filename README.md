@@ -38,6 +38,6 @@
 
 ## Requirements
 
-- PowerShell 5.1 or newr
+- PowerShell 5.1 or newer
 - Domain credentials with basic read access(non-privilaged)
 - Network reachability to Domain Controller (LDAP:389 or LDAPS:636)
